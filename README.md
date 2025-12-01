@@ -22,8 +22,8 @@ Currently studying **BSc (Hons) in Data Science** at SLIIT
 
 ### 🤝 Connect with Me
 - 💼 LinkedIn: https://linkedin.com/in/bisheka
-- 🌐 GitHub: :contentReference[oaicite:4]{index=4}:** `Bisheka`
-- 📧 Email: *(Add your email)*
+- 🌐 GitHub: :https://github.com/Bisheka 
+- 📧 Email: weerathungabisheka@gmail.com
 
 ---
 
